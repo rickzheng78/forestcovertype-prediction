@@ -1,1 +1,1 @@
-# Predicting Forest Cover Types using various Machine Learning techniques
+#### Predicting Forest Cover Types using various Machine Learning techniques
